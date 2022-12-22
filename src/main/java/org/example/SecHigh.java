@@ -3,11 +3,13 @@ package org.example;
 public class SecHigh {
 
     public static void main(String[] args) {
+
         int[] intArray=new int[]{2,2,1};
         int intArray1[] = {20, 10, 5, 12,20, 30};
         //{2,2,1,12,3,7,9,-1,-5,7};
         int secHigh=findSecHigh(intArray1);
         System.out.println(secHigh);
+
     }
 
     private static int findSecHigh(int[] intArray) {
@@ -34,4 +36,7 @@ public class SecHigh {
         }
         return sechighest;
     }
+
+
+
 }

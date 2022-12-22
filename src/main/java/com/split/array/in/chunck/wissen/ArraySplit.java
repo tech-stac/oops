@@ -1,4 +1,4 @@
-package com.split.array.in.chunck;
+package com.split.array.in.chunck.wissen;
 
 import java.util.ArrayList;
 import java.util.Arrays;

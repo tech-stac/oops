@@ -1,6 +1,6 @@
-package com.stringprogram;
+package com.onePrintinRightAngledTriangle;
 
-public class RIGHTALIGNEDTRIANGLE {
+public class RightAlignedTriangle {
 
 /*
       1
